@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "MjikQbPUlpfVA0QeEYj6mWW7XJXQejI7hnGUQVRBt+UrMMooVeF5/PygB2l1Xm+sbYLn/wAjntyCtagVBt1QmA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\caioq\\OneDrive\\Área de Trabalho\\.NET-DIO\\trilha-net-poo-desafio-main\\DesafioPOO.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.NETCore.App.Ref (= 6.0.25)' para 'net6.0'.",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.WindowsDesktop.App.Ref (= 6.0.25)' para 'net6.0'.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.AspNetCore.App.Ref (= 6.0.25)' para 'net6.0'.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.NETCore.App.Host.win-x64 (= 6.0.25)' para 'net6.0'.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
